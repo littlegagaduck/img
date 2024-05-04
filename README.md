@@ -1,4 +1,4 @@
-### Picgo + Typora 使用教程
+### PicGo + Typora 使用教程
 
 在 Typora 中配置：
 
