@@ -2,7 +2,7 @@
 
 在 Typora 中配置：
 
-<img src="https://raw.githubusercontent.com/littlegagaduck/img/main/img/image-20240504151106790.png" alt="image-20240504151106790" style="zoom: 80%;" />
+<img src="https://raw.githubusercontent.com/littlegagaduck/img/main/img/image-20240504151106790.png" alt="image-20240504151106790" style="zoom: 60%;" />
 
 打开配置文件，按照 [链接](https://picgo.github.io/PicGo-Core-Doc/zh/guide/config.html#%E9%BB%98%E8%AE%A4%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6) 中的要求，完成以下格式的配置：
 
